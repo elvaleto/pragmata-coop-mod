@@ -1,0 +1,25 @@
+Added by the PRAGMATA two-player hacking mod development setup:
+
+dinput8.dll
+reframework/autorun/pragmata_coop_probe.lua
+reframework/plugins/Ijwhost.dll
+reframework/plugins/REFramework.NET.dll
+reframework/plugins/REFramework.NET.runtimeconfig.json
+reframework/plugins/REFramework.NET.xml
+reframework/plugins/managed/
+reframework/plugins/source/
+reframework/plugins/source/PragmataTwoPlayerHacking.cs
+reframework/data/PragmataTwoPlayerHacking.ini
+PragmataInputFilter.dll
+PragmataTwoPlayerHacking_Config.exe
+_pragmata_coop_dev/
+
+Release archive:
+_pragmata_coop_dev/release/PragmataTwoPlayerHacking-0.1.0-alpha.zip
+SHA-256: BD894B885400A6EB2A0D6B34E2AC32F916F7D8CEE3412136FBDB61A95FAD93B5
+
+Current release archive:
+_pragmata_coop_dev/release/PragmataTwoPlayerHacking-1.1.0-working.zip
+SHA-256: 15556F8C843D241AF6FE2B6554CC0FB84FBC4F64A97CEAE3DDD635D05F8DD9B3
+
+Game PAK files were not modified.

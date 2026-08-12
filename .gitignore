@@ -1,0 +1,36 @@
+# Visual Studio / .NET build outputs
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+.vs/
+.idea/
+*.user
+*.suo
+
+# Local toolchains and downloads
+.dotnet_home/
+downloads/
+reframework_dist/
+
+# Compiled native object files and build output
+native/*.obj
+native/*.lib
+native/*.exp
+native/*.dll
+
+# Executables and DLLs
+*.exe
+*.dll
+
+# Release archives and generated hashes
+release/*.zip
+release/*.sha256
+tools/*.exe
+tools/*.previous.exe
+tools/*.new.exe
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
