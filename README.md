@@ -62,8 +62,6 @@ RE Engine natively merges input from all connected controllers into a single com
 ## Requirements & Building
 
 ### Requirements:
-- [.NET SDK 9.0 / 10](https://dotnet.microsoft.com/)
-- C++20 Compiler (Visual Studio 2022 / MSVC)
 - [REFramework](https://github.com/praydog/REFramework-nightly/releases) 
 
 ### Building:
