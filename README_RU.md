@@ -61,8 +61,6 @@
 ## Требования и сборка
 
 ### Требования:
-- [.NET SDK 9.0 / 10](https://dotnet.microsoft.com/)
-- C++20 компилятор (Visual Studio 2022 / MSVC)
 - [REFramework](https://github.com/praydog/REFramework-nightly/releases) 
 
 ### Сборка:
