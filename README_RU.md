@@ -63,7 +63,7 @@
 ### Требования:
 - [.NET SDK 9.0 / 10](https://dotnet.microsoft.com/)
 - C++20 компилятор (Visual Studio 2022 / MSVC)
-- [REFramework](https://github.com/praydog/REFramework) с поддержкой REFramework.NET C# API
+- [REFramework](https://github.com/praydog/REFramework-nightly/releases) 
 
 ### Сборка:
 1. **C#-плагин**: `dotnet build managed/PragmataSplitControl/PragmataSplitControl.csproj -c Release`
@@ -74,7 +74,7 @@
 
 ## Установка и использование
 
-1. Установите REFramework с поддержкой C# (REFramework.NET).
+1. Установите REFramework
 2. Поместите скомпилированные файлы мода в папку с `PRAGMATA.exe`.
 3. Запустите `PragmataSplitControl_Config.exe`, назначьте геймпады и сохраните настройки.
 4. Запустите игру.

@@ -64,7 +64,7 @@ RE Engine natively merges input from all connected controllers into a single com
 ### Requirements:
 - [.NET SDK 9.0 / 10](https://dotnet.microsoft.com/)
 - C++20 Compiler (Visual Studio 2022 / MSVC)
-- [REFramework](https://github.com/praydog/REFramework) with REFramework.NET C# API support
+- [REFramework](https://github.com/praydog/REFramework-nightly/releases) 
 
 ### Building:
 1. **C# Plugin**: `dotnet build managed/PragmataSplitControl/PragmataSplitControl.csproj -c Release`
@@ -75,7 +75,7 @@ RE Engine natively merges input from all connected controllers into a single com
 
 ## Installation & Usage
 
-1. Install REFramework with C# support (REFramework.NET).
+1. Install REFramework.
 2. Extract the compiled mod files into your `PRAGMATA.exe` game directory.
 3. Run `PragmataSplitControl_Config.exe`, assign controllers, and click **Save configuration**.
 4. Launch PRAGMATA.
